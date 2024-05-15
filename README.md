@@ -64,6 +64,11 @@ LDR Features of LDR are as follows:
 
 ## PROGRAM:
 ```
+NAME:MUKESH P
+REG NO: 212222240068
+```
+
+```
 int sensorPin = A0; 
 int sensorValue = 0; 
 void setup() 
@@ -91,12 +96,10 @@ void loop()
 ```
 
 ## CIRCUIT DIAGRAM:
-![ebd9](https://github.com/Senthamil1412/Automatic-Light-control-using-Arduino-Controller/assets/119120228/491cabb5-9814-4755-be55-c0a67b26ff33)
-
+![319852422-b4022006-8280-43fe-ae39-5ac3939d3401](https://github.com/Senthamil1412/Automatic-Light-control-using-Arduino-Controller/assets/119120228/96eb5c6e-0320-4c19-8a32-071c73c99337)
 
 ## OUTPUT:
-![ebd10](https://github.com/Senthamil1412/Automatic-Light-control-using-Arduino-Controller/assets/119120228/9eb3963f-2c13-49c8-8bd2-0762e9711000)
-
+![319852447-afa5a5a1-9ecd-4de8-9d88-6354f7abe133](https://github.com/Senthamil1412/Automatic-Light-control-using-Arduino-Controller/assets/119120228/e174a6eb-84bf-47a1-a026-7c4e23a63b06)
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
