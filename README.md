@@ -64,8 +64,8 @@ LDR Features of LDR are as follows:
 
 ## PROGRAM:
 ```
-NAME:MUKESH P
-REG NO: 212222240068
+NAME:SENTHAMIL SELVAN G
+REG NO: 212222230139
 ```
 
 ```
